@@ -29,7 +29,7 @@
       "url": "https://wustl.edu/",
       "area": "System Science & Mathematics",
       "studyType": "PhD",
-      "startDate": "2020-09",
+      "startDate": "2020",
       "endDate": "Current",
       "score": "3.95/4.0",
       "courses": ["Courses: Optimization, Introduction to Machine Learning, Theory of Statistics, Measure Theory and Functional Analysis, High-Dimensional Statistics"]
@@ -40,8 +40,8 @@
       "url": "http://www.iitkgp.ac.in/",
       "area": "Control Systems Engineering",
       "studyType": "M.Tech.",
-      "startDate": "2016-07",
-      "endDate": "2017-07",
+      "startDate": "2016",
+      "endDate": "2017",
       "score": "8.85/10",
       "courses": ["Courses: Programming and Data Structure, Probability & Stochastic Process, Data Structure and Algorithms, Digital Control"]
     },
@@ -51,8 +51,8 @@
       "url": "http://www.iitkgp.ac.in/",
       "area": "Electrical Engineering",
       "studyType": "B.Tech. (Honors)",
-      "startDate": "2012-07",
-      "endDate": "2016-07",
+      "startDate": "2012",
+      "endDate": "2016",
       "score": "8.85/10",
       "courses": ["Courses: Signal & Networks, Switching & Finite Automata, Control Theory, Linear Dynamical Systems, Nonlinear Systems"]
     }
@@ -62,8 +62,8 @@
       "name": "Taiwan Semiconductor Manufacturing Company (TSMC)",
       "position": "Research Engineer",
       "url": "https://www.tsmc.com/english",
-      "startDate": "2017-09",
-      "endDate": "2020-09",
+      "startDate": "2017",
+      "endDate": "2020",
       "summary": "RC Interconnect Modeling for Sub 10nm CMOS Technology Nodes",
       "highlights": ["Integrated different SOC designs like ASIC on ASIC (AOA), system on integrated chip (SOIC) and wafer on wafer (WOW) to implement 3D-IC RC tech files for 7nm and 12nm nodes"]
     }
