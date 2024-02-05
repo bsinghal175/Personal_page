@@ -24,7 +24,7 @@
   },
   "education": [
     {
-      "institution": "Washington University in St Louis,
+      "institution": "Washington University in St Louis",
       "location": "St. Louis, USA",
       "url": "https://wustl.edu/",
       "area": "System Science and Mathematics",
@@ -33,9 +33,9 @@
       "endDate": "Current",
       "score": "3.95/4.0",
       "courses": [""]
-    }
+    },
     {
-      "institution": "Indian Institute of Technology Kharagpur,
+      "institution": "Indian Institute of Technology Kharagpur",
       "location": "Kharagpur, India",
       "url": "http://www.iitkgp.ac.in/",
       "area": "Control Systems Engineering",
@@ -44,9 +44,9 @@
       "endDate": "07-01-2016",
       "score": "8.85/10",
       "courses": [""]
-    }
+    },
     {
-      "institution": "Indian Institute of Technology Kharagpur,
+      "institution": "Indian Institute of Technology Kharagpur",
       "location": "Kharagpur, India",
       "url": "http://www.iitkgp.ac.in/",
       "area": "Electrical Engineering",
