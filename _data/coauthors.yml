@@ -1,18 +1,18 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"istvan":
+  - firstname: ["Istvan Z. Kiss"]
+    url: https://www.slu.edu/science-and-engineering/academics/chemistry/faculty/istvan-kiss.php
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"shen":
+  - firstname: ["Shen Zeng"]
+    url: https://engineering.wustl.edu/faculty/Shen-Zeng.html
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"jsli":
+  - firstname: ["Jr-Shin Li"]
+    url: https://engineering.wustl.edu/faculty/Jr-Shin-Li.html
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"minh":
+  - firstname: ["Minh Vu"]
+    url: https://sites.wustl.edu/minhvu/
 
   - firstname: ["Carl Philipp Emanuel", "C. P. E."]
     url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
