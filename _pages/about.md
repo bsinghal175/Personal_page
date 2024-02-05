@@ -19,8 +19,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year Ph.D. student in the [Applied Mathematics Lab](https://www.ese.wustl.edu/~jsli/AMLab/Home.html) at Washington University in St. Louis. My primary research interests are in control theory, network science, and nonlinear dynamics. Specifically, my research focuses on understanding and controlling complex networks of nonlinear units using tools from control theory and optimization. 
+                  
+I received my bachelor’s degree (B.Tech) in Electrical Engineering and my master's degree (M.Tech) in Control Systems Engineering from [IIT Kharagpur](http://www.iitkgp.ac.in) in 2017. After obtaining my master's, I worked as a research engineer in the Design Methodology and Kit Development (DMKD) division at [TSMC](https://www.tsmc.com/english) for three years. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+[Google Scholar](https://scholar.google.com/citations?user=0xeNvrsAAAAJ&hl=en)
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
