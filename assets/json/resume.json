@@ -32,7 +32,7 @@
       "startDate": "09-19-2020",
       "endDate": "Current",
       "score": "3.95/4.0",
-      "courses": [""]
+      "courses": ["Optimization, Introduction to Machine Learning, Theory of Statistics, Measure Theory and Functional Analysis, High-Dimensional Statistics, Linear Dynamical Systems, Nonlinear Systems"]
     },
     {
       "institution": "Indian Institute of Technology Kharagpur",
@@ -43,7 +43,7 @@
       "startDate": "07-01-2016",
       "endDate": "07-01-2016",
       "score": "8.85/10",
-      "courses": [""]
+      "courses": ["Programming and Data Structure, Probability & Stochastic Process, Data Structure and Algorithms, Digital Control"]
     },
     {
       "institution": "Indian Institute of Technology Kharagpur",
@@ -54,7 +54,7 @@
       "startDate": "07-01-2012",
       "endDate": "07-01-2016",
       "score": "8.85/10",
-      "courses": [""]
+      "courses": ["Signal & Networks, Switching & Finite Automata, Control Theory"]
     }
   ],
   "work": [
@@ -65,7 +65,7 @@
       "startDate": "09-03-2017",
       "endDate": "09-03-2020",
       "summary": "RC Interconnect Modeling for Sub 10nm CMOS Technology Nodes",
-      "highlights": [""]
+      "highlights": ["Integrated different SOC designs like ASIC on ASIC (AOA), system on integrated chip (SOIC) and wafer on wafer (WOW) to implement 3D-IC RC tech files for 7nm and 12nm nodes"]
     }
   ],
   "awards": [
@@ -161,7 +161,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
       "fluency": "Native speaker",
       "icon": ""
     },
