@@ -1,16 +1,16 @@
 "istvan":
-  - firstname: ["Istvan Z. Kiss"]
+  - firstname: ["Istvan Z. Kiss", "Istvan", "Z.", "Kiss"]
     url: https://www.slu.edu/science-and-engineering/academics/chemistry/faculty/istvan-kiss.php
 
 "shen":
-  - firstname: ["Shen Zeng"]
+  - firstname: ["Shen Zeng", "Shen", "Zeng"]
     url: https://engineering.wustl.edu/faculty/Shen-Zeng.html
 
 "jsli":
-  - firstname: ["Jr-Shin Li"]
+  - firstname: ["Jr-Shin Li", "Jr-Shin", "Li"]
     url: https://engineering.wustl.edu/faculty/Jr-Shin-Li.html
 
 "minh":
-  - firstname: ["Minh Vu"]
+  - firstname: ["Minh Vu", "Minh", "Vu"]
     url: https://sites.wustl.edu/minhvu/
 
