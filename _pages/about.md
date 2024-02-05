@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='https://ese.wustl.edu/index.html'> PhD Student <br /> Electrical and Systems Engineering <br /> Washington University in St. Louis</a>. 
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2159, Green Hall</p>
-    <p>Washington University in St. Louis</p>
+    <p>Washington University in St Louis</p>
     <p>St Louis, MO 63130</p>
 
 news: true # includes a list of news items
