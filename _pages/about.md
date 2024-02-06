@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://ese.wustl.edu/index.html'> PhD Student <br /> Electrical & Systems Engineering <br /> Washington University in St. Louis</a>. 
+subtitle: <a href='https://ese.wustl.edu/index.html'> PhD Candidate <br /> Electrical & Systems Engineering <br /> Washington University in St. Louis</a>. 
 
 profile:
   align: right
