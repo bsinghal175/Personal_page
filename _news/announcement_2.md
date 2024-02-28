@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent work on Data-driven control of ensemble systems got accepted for ACC 2024. 
+Our recent work on Data-driven control of oscillator populations using aggregated measurements got accepted in Chaos. 
