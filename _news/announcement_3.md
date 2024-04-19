@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our recent work on Data-driven control of oscillator populations using aggregated measurements got accepted in Chaos. 
+Our recent work on recovering the network connectivity from time-series data was accepted in Chaos. 
