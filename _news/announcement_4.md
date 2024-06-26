@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2024-4-18 15:59:00-0400
+inline: true
+related_posts: false
+---
+
+Our recent work on optimal phase-selective entrainment of heterogeneous electrochemical oscillators was accepted in Chaos. 
