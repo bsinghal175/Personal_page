@@ -9,7 +9,6 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>2159, Green Hall</p>
     <p>Washington University in St Louis</p>
     <p>St Louis, MO 63130</p>
 
