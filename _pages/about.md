@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a fourth-year Ph.D. student in the [Applied Mathematics Lab](https://www.ese.wustl.edu/~jsli/AMLab/Home.html) at Washington University in St. Louis. My primary research interests are in control theory, network science, and learning for dynamical systems. Specifically, my research focuses on understanding and controlling complex networks of nonlinear units using tools from control theory, statistical learning, and optimization. 
+I am a fifth-year Ph.D. student in the [Applied Mathematics Lab](https://www.ese.wustl.edu/~jsli/AMLab/Home.html) at Washington University in St. Louis. My primary research interests are in control theory, network science, and learning for dynamical systems. Specifically, my research focuses on understanding and controlling complex networks of nonlinear units using tools from control theory, statistical learning, and optimization. 
                   
 I received my bachelor’s degree (B.Tech) in Electrical Engineering and my master's degree (M.Tech) in Control Systems Engineering from [IIT Kharagpur](http://www.iitkgp.ac.in) in 2017. After obtaining my master's, I worked as a research engineer in the Design Methodology and Kit Development (DMKD) division at [TSMC](https://www.tsmc.com/english) for three years. 
 
